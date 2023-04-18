@@ -10,3 +10,17 @@
     
     background-color: rgb(255, 255, 255);
 }
+
+
+table{
+    text-align: center;
+    border: 1px solid blueviolet;
+
+
+}
+
+td, th {
+    border: 2px solid blueviolet;
+    padding: 10px;
+    margin: 200px;
+}
